@@ -19,7 +19,7 @@
 	        "favoredReligion": "Christianity",
 		"uniqueName": "Serbian Glory",
 		"uniques": ["[+1 Happiness] from all [Production] buildings","[+1 Production] from every [Strategic resource]","Double quantity of [Horses] produced",
-			"Double quantity of [Iron] produced","Double quantity of [Uranium] produced","[+1 Gold] per every [10] [Gold] <after discovering [Animal Husbandry]>","[-50]% Unhappiness from [Population] [in all cities]","[+30]% Strength <vs [City-States]>","[+1] Sight <for [{Military} {Land}] units>","[-50]% maintenance costs <for [Land] units>","No movement cost to pillage <for [Melee] units>","[+1 Gold] per every [50] [Piety] <after discovering [Animal Husbandry]>",
+			"Double quantity of [Iron] produced","Double quantity of [Uranium] produced","[+1 Gold] per every [10] [Gold] <after discovering [Animal Husbandry]>","[-50]% Unhappiness from [Population] [in all cities]","[+30]% Strength <vs [City-States]>","[+1] Sight <for [{Military} {Land}] units>","[-50]% maintenance costs <for [Land] units>","No movement cost to pillage <for [Melee] units>",
 		"cities": ["Beograd","Zemun","Novi Beograd","Borca","Banovo Brdo","Dorcol","Krnjaca","Savski Venac","Bezanijska Kosa",
 			"Pancevo","Novi Sad","Zrenjanin","Perlez","Sabac","Raska","Nis","Vrsac","Leskovac","Valjevo",
 			"Smederevo","Vranje","Kragujevac","Kraljevo","Subotica","Sombor","Secanj","Pristina","Prizren","Pec",
