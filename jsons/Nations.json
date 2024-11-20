@@ -18,6 +18,8 @@
 		"innerColor": [255,255,255],
 	        "favoredReligion": "Christianity",
 		"uniqueName": "Serbian Glory",
+		"uniques": ["[+1 Production] from every [Strategic resource]","Double quantity of [Horses] produced",
+			"Double quantity of [Iron] produced","Double quantity of [Uranium] produced"],
 		
 		"cities": ["Beograd","Zemun","Novi Beograd","Borca","Banovo Brdo","Dorcol","Krnjaca","Savski Venac","Bezanijska Kosa",
 			"Pancevo","Novi Sad","Zrenjanin","Perlez","Sabac","Raska","Nis","Vrsac","Leskovac","Valjevo",
