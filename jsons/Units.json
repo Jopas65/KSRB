@@ -1,17 +1,35 @@
 [
-	{
-		"name": "Phasers",
-		"unitType": "Ranged",
-		"uniqueTo": "Aliens",
-		"replaces": "Machine Gun",
+    {
+		"name": "Hajduk",
+		"replaces": "Rifleman",
+	        "uniqueTo": "Serbia",
+		"unitType": "Gunpowder",
 		"movement": 2,
-		"strength": 90,
-		"rangedStrength": 36,
+		"strength": 36,
+		"cost": 60,
+		"requiredTech": "Rifling",
+		"obsoleteTech": "Replaceable Parts",
+		"upgradesTo": "Great War Infantry",
+		"uniques": ["Can move after attacking"],
+	        "promotions": ["Great Generals II"],
+		"attackSound": "shot"
+	},
+	{
+		"name": "Konjica",
+		"replaces": "Knight",
+		"uniqueTo": "Serbia",
+		"unitType": "Ranged Gunpowder",
 		"range": 2,
-		"cost": 500,
-		"requiredTech": "Ballistics",
-		"requiredResource": "Uranium",
-		"promotions": ["Logistics","Accuracy I"],
-		"attackSound": "phasers"
-	}
+		"movement": 4,
+		"strength": 20,
+		"rangedStrength": 20,
+		"cost": 150,
+		"requiredTech": "Gunpowder",
+		"obsoleteTech": "Replaceable Parts",
+		"requiredResource": "Horses",
+		"upgradesTo": "Great War Infantry",
+		"uniques": ["Can move after attacking","No defensive terrain bonus"],
+		"promotions": ["Logistics"],
+		"attackSound": "shot"
+	},
 ]
