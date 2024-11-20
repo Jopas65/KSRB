@@ -19,7 +19,7 @@
 	        "favoredReligion": "Christianity",
 		"uniqueName": "Serbian Glory",
 		"uniques": ["[+1 Production] from every [Strategic resource]","Double quantity of [Horses] produced",
-			"Double quantity of [Iron] produced","Double quantity of [Uranium] produced"],
+			"Double quantity of [Iron] produced","Double quantity of [Uranium] produced","[+1 Gold] per every [10] [Gold] <after discovering [Pottery]>"],
 		
 		"cities": ["Beograd","Zemun","Novi Beograd","Borca","Banovo Brdo","Dorcol","Krnjaca","Savski Venac","Bezanijska Kosa",
 			"Pancevo","Novi Sad","Zrenjanin","Perlez","Sabac","Raska","Nis","Vrsac","Leskovac","Valjevo",
