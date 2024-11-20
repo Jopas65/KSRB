@@ -18,8 +18,8 @@
 		"innerColor": [255,255,255],
 	        "favoredReligion": "Christianity",
 		"uniqueName": "Serbian Glory",
-		"uniques": ["[+1 Production] from every [Strategic resource]","Double quantity of [Horses] produced",
-			"Double quantity of [Iron] produced","Double quantity of [Uranium] produced","[+1 Gold] per every [10] [Gold] <after discovering [Pottery]>"],
+		"uniques": ["[+1 Production] from every [Strategic resource]","[+1 Happiness] from all [Production] buildings","[-50]% Unhappiness from [Population] [in all cities]","[+30]% Strength <vs [City-States]>","[+1] Sight <for [{Military} {Land}] units>","[-50]% maintenance costs <for [Land] units>","No movement cost to pillage <for [Melee] units>","[+1 Production] from every [Strategic resource]","Double quantity of [Horses] produced",
+			"Double quantity of [Iron] produced","Double quantity of [Uranium] produced","[+1 Gold] per every [10] [Gold] <after discovering [Pottery]>","[+1 Faith] per every [50] [Gold] <after discovering [Pottery]>"],
 		
 		"cities": ["Beograd","Zemun","Novi Beograd","Borca","Banovo Brdo","Dorcol","Krnjaca","Savski Venac","Bezanijska Kosa",
 			"Pancevo","Novi Sad","Zrenjanin","Perlez","Sabac","Raska","Nis","Vrsac","Leskovac","Valjevo",
