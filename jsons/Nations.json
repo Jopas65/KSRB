@@ -1,38 +1,27 @@
 [
 	{
-		"name": "Aliens",
-		"leaderName": "Zyxxyz",
-		"adjective": ["alien"],
-		"startBias": ["Snow"],
-		"preferredVictoryType": "Scientific",
+		"name": "Serbia",
+		"leaderName": "Pavle I",
+		"adjective": ["Serbs"],
+		"preferredVictoryType": "Domination",
 		
-		"startIntroPart1": "We come in peace!",
-		"startIntroPart2": "This is an overpowered joke nation just as an example for the mods feature. Set Phasers to Obliterate!!",
+		"startIntroPart1": "May God be with us, all hail Pavle the First-Crowned, King of Serbia! Great and holy Serbia had arisen! No longer are we just the Grand Principality of Serbia. Nay, you are a king! We have a long road ahead of us!!",
+		"startIntroPart2": "Your Royal Highness, Serbia calls upon you to lead it to greatness and glory! Will you make Serbia great? Can you build a civilization that will stand the test of time?!",
 		
-		"declaringWar": "Resistance is futile! Prepare to be assimilated!",
-		"attacked": "You want to play? Very funny!",
-		"defeated": "How is it possible that those Apes hurt us? The galactic senate will take care of them.",
-		"introduction": "As superior galactic entities, you are not worthy of our attention.",
+		"attacked": "Submit or die!",
+		"defeated": "Serbia has fallen.",
+		"introduction": "Greetings from Belgrade.",
+		"neutralHello": "Hello.",
+		"hateHello": "What is it?",
+		"tradeRequest": "You can trade with us.",
+		"outerColor": [109,2,0],
+		"innerColor": [255,255,255],
+	        "favoredReligion": "Christianity",
+		"uniqueName": "Serbian Glory",
 		
-		"neutralHello": "How are you doing?",
-		"neutralLetsHearIt": ["Go on.","What do you say?","You may begin."],
-		"neutralNo": ["We absolutely refuse.","No!","I refuse."],
-		"neutralYes": ["Very good.","Of course, yes.","That is very good."],
-
-		"hateHello": "What do you want now?",
-		"hateLetsHearIt": ["Speak!","What do you say?","Go on."],
-		"hateNo": ["That is not possible!","We are not agreeing to that!","I beg your pardon?"],
-		"hateYes": ["That is fine.","That is good enough.","Very well..."],
-		
-		"afterPeace": "Very well, all that fighting was getting boring anyway.",
-		"tradeRequest": "We bestow you the honor of this trade offer.",
-
-		"outerColor": [16,16,16],
-		"innerColor": [255,200,200],
-		"unique": "MANIFEST_DESTINY",
-		"cities": ["The Hive","Q'Throczan","Q'Chovex","Q'Imphet","Q'Omphead","Q'Grecoks","Q'Vrelzieks","Q'Vronens","Q'Aerlae",
-			"Q'Phulnoith","Q'Creved","Q'Xirqen","Q'Gax","Q'Threqals","Q'Bhilmuk","Q'Mazea","Q'Zomirs","Q'Drorkrex","Q'Honkrath",
-			"Q'Zulgra","Q'Vahars","Q'Crindith","Q'Raavraes","Q'Bhoknais","Qho'Qru","Q'Dateatz","Q'Elnad","Q'Izien","Qol'Ell",
-			"Q'Dhihien","Q'Naquiel","Q'Ugneon","Q'Straquks","Q'Nulptr","Q'Ohfahl"]
+		"cities": ["Beograd","Zemun","Novi Beograd","Borca","Banovo Brdo","Dorcol","Krnjaca","Savski Venac","Bezanijska Kosa",
+			"Pancevo","Novi Sad","Zrenjanin","Perlez","Sabac","Raska","Nis","Vrsac","Leskovac","Valjevo",
+			"Smederevo","Vranje","Kragujevac","Kraljevo","Subotica","Sombor","Secanj","Pristina","Prizren","Pec",
+			"Zajecar","Krusevac"]
 	}
 ]
